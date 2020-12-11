@@ -173,7 +173,7 @@ const styles = {
   backdrop: [
     StyleSheet.absoluteFill,
     {
-      backgroundColor: 'rgba(27,27,27,0.9)',
+      backgroundColor: 'rgba(0,0,0,0.5)',
     },
   ],
   child: {
